@@ -1,1 +1,3 @@
 # PruebaRepositorio
+clc
+clear all
